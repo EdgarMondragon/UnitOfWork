@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper.Contrib" Version="1.50.5" />
+    <PackageReference Include="GodSharp.Data.Common.DbProvider" Version="1.0.0-preview1" />
+    <PackageReference Include="Npgsql" Version="4.0.3" />
+    <PackageReference Include="Serilog.AspNetCore" Version="2.1.1" />
+    <PackageReference Include="Serilog.Sinks.Console" Version="3.1.1" />
+    <PackageReference Include="Serilog.Sinks.File" Version="4.0.0" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="4.5.0" />
+    <PackageReference Include="System.Data.Common" Version="4.3.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.6.0-preview3-27014-02" />
+    <PackageReference Include="System.Data.SQLite" Version="1.0.109.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Entities\Entities.csproj" />
+  </ItemGroup>
+
+</Project>

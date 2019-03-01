@@ -1,0 +1,89 @@
+
+src/ERRS_Services/\.vs/config/applicationhost\.config
+
+src/ERRS_Services/\.vs/ERRS_Services/DesignTimeBuild/\.dtbcache
+
+src/ERRS_Services/\.vs/ERRS_Services/v15/\.suo
+
+src/ERRS_Services/\.vs/ERRS_Services/v15/Server/sqlite3/
+
+src/ERRS_Services/UserSettings\.API/bin/Debug/netcoreapp2\.1/
+
+src/ERRS_Services/UserSettings\.API/obj/Debug/netcoreapp2\.1/
+
+src/ERRS_Services/UserSettings\.API/UserSettings\.API\.csproj\.user
+
+src/ERRS_Services/UserSettings\.API/obj/
+
+<<<<<<< EDSH-80
+src/ERRS_Services/UserSettings\.APIUnitTest_xUnit/obj/Debug/netcoreapp2\.1/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92\.cs
+
+src/ERRS_Services/UserSettings\.APIUnitTest_xUnit/obj/Debug/netcoreapp2\.1/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1\.cs
+
+src/ERRS_Services/UserSettings\.APIUnitTest_xUnit/obj/Debug/netcoreapp2\.1/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3\.cs
+
+src/ERRS_Services/UserSettings\.APIUnitTest_xUnit/obj/Debug/netcoreapp2\.1/UserSettings\.APIUnitTest_xUnit\.AssemblyInfo\.cs
+
+src/ERRS_Services/UserSettings\.APIUnitTest_xUnit/obj/Debug/netcoreapp2\.1/UserSettings\.APIUnitTest_xUnit\.csproj\.CopyComplete
+
+src/ERRS_Services/UserSettings\.APIUnitTest_xUnit/obj/Debug/netcoreapp2\.1/UserSettings\.APIUnitTest_xUnit\.csproj\.FileListAbsolute\.txt
+
+src/ERRS_Services/UserSettings\.APIUnitTest_xUnit/obj/Debug/netcoreapp2\.1/UserSettings\.APIUnitTest_xUnit\.Program\.cs
+
+src/ERRS_Services/UserSettings\.APIUnitTest_xUnit/obj/project\.assets\.json
+
+src/ERRS_Services/UserSettings\.APIUnitTest_xUnit/obj/UserSettings\.APIUnitTest_xUnit\.csproj\.nuget\.g\.props
+
+src/ERRS_Services/UserSettings\.APIUnitTest_xUnit/obj/UserSettings\.APIUnitTest_xUnit\.csproj\.nuget\.g\.targets
+=======
+src/ERRS_Services/DataAccess/bin/Debug/netcoreapp2\.1/DataAccess\.deps\.json
+>>>>>>> add ignore file
+
+src/ERRS_Services/DataAccess/obj/project\.assets\.json
+
+src/ERRS_Services/Entities/obj/Debug/netcoreapp2\.1/Entities\.csproj\.FileListAbsolute\.txt
+
+<<<<<<< EDSH-80
+src/ERRS_Services/Repositories/obj/project\.assets\.json
+<<<<<<< develop
+
+*.suo
+*.user
+_ReSharper.*
+bin
+obj
+packages
+=======
+=======
+src/ERRS_Services/UserSettings\.APIUnitTest_xUnit/bin/Debug/netcoreapp2\.1/UserSettings\.APIUnitTest_xUnit\.deps\.json
+<<<<<<< EDSH-80
+>>>>>>> add ignore file
+=======
+
+src/ERRS_Services/DataAccess/obj/DataAccess\.csproj\.nuget\.g\.props
+
+src/ERRS_Services/DataAccess/obj/DataAccess\.csproj\.nuget\.g\.targets
+
+src/ERRS_Services/Entities/obj/Entities\.csproj\.nuget\.g\.props
+
+src/ERRS_Services/Entities/obj/Entities\.csproj\.nuget\.g\.targets
+
+src/ERRS_Services/Entities/obj/project\.assets\.json
+
+src/ERRS_Services/Repositories/bin/Debug/netcoreapp2\.1/Repositories\.deps\.json
+
+src/ERRS_Services/Repositories/obj/project\.assets\.json
+
+src/ERRS_Services/Repositories/obj/Repositories\.csproj\.nuget\.g\.props
+
+src/ERRS_Services/Repositories/obj/Repositories\.csproj\.nuget\.g\.targets
+
+src/ERRS_Services/UserSettings\.APIUnitTest_xUnit/obj/project\.assets\.json
+
+src/ERRS_Services/UserSettings\.APIUnitTest_xUnit/obj/UserSettings\.APIUnitTest_xUnit\.csproj\.nuget\.g\.props
+
+src/ERRS_Services/UserSettings\.APIUnitTest_xUnit/obj/UserSettings\.APIUnitTest_xUnit\.csproj\.nuget\.g\.targets
+>>>>>>> add ignore file
+>>>>>>> add ignore file
+
+src/ERRS_Services/UserSettings\.API/Logs/
